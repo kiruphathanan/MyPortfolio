@@ -38,8 +38,8 @@ const Hero = ({ darkMode }) => {
 
   const typingTexts = [
     'Full Stack Developer',
-    'MERN Stack Specialist', 
-    'React & Node.js Expert',
+    'MERN Stack', 
+    'React & Node.js',
     'Digital Craftsman',
     'Tech Innovator'
   ];
