@@ -138,7 +138,7 @@ const Hero = ({ darkMode }) => {
             <div className="relative w-72 h-72 md:w-[480px] md:h-[480px] lg:w-[580px] lg:h-[580px]">
               {/* DIRECT SVG IMAGE - NO BACKGROUND */}
               <img 
-                src="./src/components/images/Version control-amico.svg" 
+                src="./src/components/images/11img.svg" 
                 alt="Full Stack Developer Illustration" 
                 className="w-full h-full object-contain drop-shadow-2xl"
                 onError={(e) => {
